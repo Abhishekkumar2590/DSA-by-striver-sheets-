@@ -36,9 +36,7 @@ class LinkedList:
   
 
 ll = LinkedList()
-ll.insert_at_end(10)
-ll.insert_at_end(20)
-ll.insert_at_end(30)
+
 
 print("Original List:")
 ll.display()

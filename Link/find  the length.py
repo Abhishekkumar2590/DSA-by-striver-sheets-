@@ -30,7 +30,10 @@ l1 = LinkedList()
 l1.insert_at_end(10)
 l1.insert_at_end(20)
 l1.insert_at_end(30)
-
+l1.insert_at_end(40)
+l1.insert_at_end(50)
+l1.insert_at_end(40)
+l1.insert_at_end
 print("Count of nodes:", l1.count())
 
 
